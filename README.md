@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+10+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="./icons/typing-svg.svg" alt="Typing SVG" /></a>
 </div>
 
 <picture>
@@ -37,7 +37,7 @@
   Vibing to : 🎧  
 </strong></p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=xsen215&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=leduong&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
@@ -82,20 +82,20 @@ class About extends Me {
 }
 ```
 
-- <img alt="GIF" src="https://github.com/xsen215/xsen215/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/xsen215/xsen215/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/LINUX**. <br>
-- <img src="https://github.com/xsen215/xsen215/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, AI agent, or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/xsen215/xsen215/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal\*\*.<br>
+- I'm currently building **Crypto World**. <img align="right" src="./icons/penguin.png" alt="Penguin" width="15%" /><br>
+- I like exploring **GNU/LINUX**. <br>
+- Ask me about **Next, DEX, Solidity, Rust, Dapp, AI agent, or anything**. <br>
+- Fun fact: Blockchain's future will be eternal\*\*.<br>
 
 <div align="center" >
 
 **Code Cycle**<br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+<img src="./icons/face-spiral-eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+<img src="./icons/relieved-face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+<img src="./icons/astonished-face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 <div align="center" width='100%'>
   <h1><a align='center' width='100%' href="#">Please Click Here!</a></h1>
